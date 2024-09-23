@@ -2,7 +2,7 @@
 
 #               Key Insights             #
 
- ### 1. ### Income vs Bike Purchase by Gender:
+ ### 1. Income vs Bike Purchase by Gender:
 - On average, **males** who purchased bikes have a higher income, at around **$60,124**, compared to **females**, who earn about **$55,774**.
 - Those who didn’t purchase a bike have a lower income, with **females** earning **$53,440** and **males** earning **$56,208**.
 - Higher income correlates with a higher likelihood of purchasing a bike for both genders.
@@ -12,12 +12,14 @@
 - The number of purchases by **adolescents** and **old age** groups are relatively balanced, indicating a diverse age distribution of buyers.
 - This suggests that middle-aged customers are more likely to buy bikes, perhaps due to lifestyle or commuting needs.
 
-3. ### Customer Commute Patterns:
+### 3. Customer Commute Patterns:
 - Customers who commute **0-1 miles** are the most likely to purchase bikes, with over **200 purchases**.
 - For commutes between **1-5 miles**, the purchase trend decreases slightly, but purchases remain steady.
 - People with commutes longer than **10 miles** have the lowest bike purchases, likely because longer distances are less practical for biking.
 
-4. ### Region and Occupation Filters:
+### 4. Region and Occupation Filters:
 - The filters show that bike purchase behavior can be segmented by **region** (Europe, North America, Pacific), **marital status** (married or single), and **occupation** (clerical, management, manual, professional, skilled manual).
 - These filters allow for deeper analysis based on demographics, regions, and occupational roles, helping to identify targeted marketing strategies for specific customer segments.
+
+This dashboard provides useful insights into the correlation between income, age, and commuting distance with bike purchasing behavior, helping identify key buyer segments and trends for decision-making and marketing.
 
