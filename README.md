@@ -2,12 +2,12 @@
 
 #               Key Insights             #
 
-1. ### Income vs Bike Purchase by Gender:
+ ### 1. ### Income vs Bike Purchase by Gender:
 - On average, **males** who purchased bikes have a higher income, at around **$60,124**, compared to **females**, who earn about **$55,774**.
 - Those who didn’t purchase a bike have a lower income, with **females** earning **$53,440** and **males** earning **$56,208**.
 - Higher income correlates with a higher likelihood of purchasing a bike for both genders.
 
-2. ### Bike Purchase by Age Bracket:
+### 2. Bike Purchase by Age Bracket:
 - **Middle-aged** individuals are the largest group purchasing bikes, with around **400 purchases**, followed by **adolescents** and **older** age brackets.
 - The number of purchases by **adolescents** and **old age** groups are relatively balanced, indicating a diverse age distribution of buyers.
 - This suggests that middle-aged customers are more likely to buy bikes, perhaps due to lifestyle or commuting needs.
