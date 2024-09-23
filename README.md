@@ -8,8 +8,7 @@
 - Higher income correlates with a higher likelihood of purchasing a bike for both genders.
 
 ### 2. Bike Purchase by Age Bracket:
-- **Middle-aged** individuals are the largest group purchasing bikes, with around **400 purchases**, followed by **adolescents** and **older** age brackets.
-- The number of purchases by **adolescents** and **old age** groups are relatively balanced, indicating a diverse age distribution of buyers.
+- **Middle-aged** individuals are the largest group purchasing bikes, with around **400 purchases**, followed by **older** and **adolescents** age brackets.
 - This suggests that middle-aged customers are more likely to buy bikes, perhaps due to lifestyle or commuting needs.
 
 ### 3. Customer Commute Patterns:
